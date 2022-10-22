@@ -1,0 +1,5 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Single monitor
+Exec="/home/jojo/.screenlayout/single.sh" %f
